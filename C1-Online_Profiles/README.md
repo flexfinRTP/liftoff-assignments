@@ -13,6 +13,5 @@ https://github.com/flexfinRTP
 https://www.linkedin.com/in/jgaffney311
 
 ### Resume
-PDF is located in repo.
-
+PDF of resume is updated and complete, please ask for copy of Resume.ss
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
